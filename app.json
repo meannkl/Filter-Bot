@@ -29,11 +29,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "809546777"
+         "value": "@Yadhukri"
       },
       "OWNER_NAME": {
          "description": "Enter Your Name",
-         "value": "𒆜DⱥℝkͥAnͣgͫeℓ𒆜"
+         "value": "𒆜@Yadhukri𒆜"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -89,8 +89,8 @@
       "Filter Bot"
       
    ],
-   "name": "Filter Bot",
-   "repository": "https://github.com/Jijinr/Filter-Bot",
-   "success_url": "https://telegram.dog/Filters_Robot",
-   "logo": "https://telegra.ph/file/32818d7b01045798980e8.jpg"
+   "name": "MALLUV3BOT",
+   "CHANNEL": "https://t.me/mallmovieup",
+   "GROUP": "https://t.me/mallumoviegrup",
+   "MOVIE CHANNEL": "https://t.me/joinchat/Gb-cjC6lLnQ3NGNh"
 }
